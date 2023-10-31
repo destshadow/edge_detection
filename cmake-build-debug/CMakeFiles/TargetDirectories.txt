@@ -1,0 +1,3 @@
+/home/destshadow/Scrivania/edge_detection/cmake-build-debug/CMakeFiles/edge_detection.dir
+/home/destshadow/Scrivania/edge_detection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/destshadow/Scrivania/edge_detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir

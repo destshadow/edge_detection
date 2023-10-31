@@ -1,0 +1,5 @@
+# ninja log v5
+0	170	1698740070089572230	CMakeFiles/edge_detection.dir/main.cpp.o	6eaf1803a559ac5e
+170	200	1698740070117572440	edge_detection	419db3a40a160325
+0	169	1698740452976833626	CMakeFiles/edge_detection.dir/main.cpp.o	6eaf1803a559ac5e
+169	199	1698740453008833919	edge_detection	419db3a40a160325
